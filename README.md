@@ -22,7 +22,7 @@ The target labels are:
 
 ---
 
-## 🛠️ Tech Stack with Logos
+## 🛠️ Tech Stack 
 
 | Tool/Library | Logo |
 |--------------|------|
